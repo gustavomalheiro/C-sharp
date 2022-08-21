@@ -1,0 +1,13 @@
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.exe
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.deps.json
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.runtimeconfig.json
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.dll
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.pdb
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.AssemblyInfo.cs
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.dll
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.pdb
+C:\Users\gusta\source\repos\MembrosEstaticos2\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.genruntimeconfig.cache

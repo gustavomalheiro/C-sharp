@@ -1,0 +1,12 @@
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.exe
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.deps.json
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.runtimeconfig.json
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.dll
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.1\OperadoresComparativos.pdb
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.AssemblyInfo.cs
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.dll
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.pdb
+C:\Users\gusta\source\repos\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.1\OperadoresComparativos.genruntimeconfig.cache

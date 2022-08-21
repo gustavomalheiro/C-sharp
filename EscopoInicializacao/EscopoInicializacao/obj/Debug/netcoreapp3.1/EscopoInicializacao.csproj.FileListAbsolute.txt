@@ -1,0 +1,12 @@
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.exe
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.deps.json
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.runtimeconfig.json
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.dll
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\bin\Debug\netcoreapp3.1\EscopoInicializacao.pdb
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.AssemblyInfo.cs
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.dll
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.pdb
+C:\Users\gusta\source\repos\EscopoInicializacao\EscopoInicializacao\obj\Debug\netcoreapp3.1\EscopoInicializacao.genruntimeconfig.cache

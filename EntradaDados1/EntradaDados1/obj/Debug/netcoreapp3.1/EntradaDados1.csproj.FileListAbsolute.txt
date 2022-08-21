@@ -1,0 +1,13 @@
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.1\EntradaDados1.exe
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.1\EntradaDados1.deps.json
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.1\EntradaDados1.runtimeconfig.json
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.1\EntradaDados1.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.1\EntradaDados1.dll
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\bin\Debug\netcoreapp3.1\EntradaDados1.pdb
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.1\EntradaDados1.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.1\EntradaDados1.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.1\EntradaDados1.AssemblyInfo.cs
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.1\EntradaDados1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.1\EntradaDados1.dll
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.1\EntradaDados1.pdb
+C:\Users\gusta\source\repos\EntradaDados1\EntradaDados1\obj\Debug\netcoreapp3.1\EntradaDados1.genruntimeconfig.cache

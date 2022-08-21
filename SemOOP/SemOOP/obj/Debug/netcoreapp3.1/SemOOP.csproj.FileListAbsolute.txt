@@ -1,0 +1,13 @@
+C:\Users\gusta\source\repos\SemOOP\SemOOP\bin\Debug\netcoreapp3.1\SemOOP.exe
+C:\Users\gusta\source\repos\SemOOP\SemOOP\bin\Debug\netcoreapp3.1\SemOOP.deps.json
+C:\Users\gusta\source\repos\SemOOP\SemOOP\bin\Debug\netcoreapp3.1\SemOOP.runtimeconfig.json
+C:\Users\gusta\source\repos\SemOOP\SemOOP\bin\Debug\netcoreapp3.1\SemOOP.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\SemOOP\SemOOP\bin\Debug\netcoreapp3.1\SemOOP.dll
+C:\Users\gusta\source\repos\SemOOP\SemOOP\bin\Debug\netcoreapp3.1\SemOOP.pdb
+C:\Users\gusta\source\repos\SemOOP\SemOOP\obj\Debug\netcoreapp3.1\SemOOP.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\SemOOP\SemOOP\obj\Debug\netcoreapp3.1\SemOOP.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\SemOOP\SemOOP\obj\Debug\netcoreapp3.1\SemOOP.AssemblyInfo.cs
+C:\Users\gusta\source\repos\SemOOP\SemOOP\obj\Debug\netcoreapp3.1\SemOOP.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\SemOOP\SemOOP\obj\Debug\netcoreapp3.1\SemOOP.dll
+C:\Users\gusta\source\repos\SemOOP\SemOOP\obj\Debug\netcoreapp3.1\SemOOP.pdb
+C:\Users\gusta\source\repos\SemOOP\SemOOP\obj\Debug\netcoreapp3.1\SemOOP.genruntimeconfig.cache

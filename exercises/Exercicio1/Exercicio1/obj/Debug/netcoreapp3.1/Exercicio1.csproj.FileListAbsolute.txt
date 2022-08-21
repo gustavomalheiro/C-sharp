@@ -1,0 +1,13 @@
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.exe
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.deps.json
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.json
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\gusta\source\repos\exercises\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.genruntimeconfig.cache

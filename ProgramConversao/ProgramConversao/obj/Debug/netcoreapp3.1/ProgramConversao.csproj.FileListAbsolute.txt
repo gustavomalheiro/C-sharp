@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\bin\Debug\netcoreapp3.1\ProgramConversao.exe
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\bin\Debug\netcoreapp3.1\ProgramConversao.deps.json
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\bin\Debug\netcoreapp3.1\ProgramConversao.runtimeconfig.json
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\bin\Debug\netcoreapp3.1\ProgramConversao.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\bin\Debug\netcoreapp3.1\ProgramConversao.dll
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\bin\Debug\netcoreapp3.1\ProgramConversao.pdb
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\obj\Debug\netcoreapp3.1\ProgramConversao.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\obj\Debug\netcoreapp3.1\ProgramConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\obj\Debug\netcoreapp3.1\ProgramConversao.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\obj\Debug\netcoreapp3.1\ProgramConversao.AssemblyInfo.cs
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\obj\Debug\netcoreapp3.1\ProgramConversao.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\obj\Debug\netcoreapp3.1\ProgramConversao.dll
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\obj\Debug\netcoreapp3.1\ProgramConversao.pdb
+C:\Users\gusta\source\repos\ProgramConversao\ProgramConversao\obj\Debug\netcoreapp3.1\ProgramConversao.genruntimeconfig.cache

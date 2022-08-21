@@ -1,0 +1,13 @@
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\bin\Debug\netcoreapp3.1\ProgramOperadores.exe
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\bin\Debug\netcoreapp3.1\ProgramOperadores.deps.json
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\bin\Debug\netcoreapp3.1\ProgramOperadores.runtimeconfig.json
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\bin\Debug\netcoreapp3.1\ProgramOperadores.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\bin\Debug\netcoreapp3.1\ProgramOperadores.dll
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\bin\Debug\netcoreapp3.1\ProgramOperadores.pdb
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\obj\Debug\netcoreapp3.1\ProgramOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\obj\Debug\netcoreapp3.1\ProgramOperadores.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\obj\Debug\netcoreapp3.1\ProgramOperadores.AssemblyInfo.cs
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\obj\Debug\netcoreapp3.1\ProgramOperadores.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\obj\Debug\netcoreapp3.1\ProgramOperadores.dll
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\obj\Debug\netcoreapp3.1\ProgramOperadores.pdb
+C:\Users\gusta\source\repos\ProgramOperadores\ProgramOperadores\obj\Debug\netcoreapp3.1\ProgramOperadores.genruntimeconfig.cache

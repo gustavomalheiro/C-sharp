@@ -1,0 +1,12 @@
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.exe
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.deps.json
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.json
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.dll
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\bin\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.dll
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.pdb
+C:\Users\gusta\source\repos\OperadoresLogicos\OperadoresLogicos\obj\Debug\netcoreapp3.1\OperadoresLogicos.genruntimeconfig.cache

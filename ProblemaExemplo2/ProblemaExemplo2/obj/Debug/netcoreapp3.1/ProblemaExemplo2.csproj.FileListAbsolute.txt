@@ -1,0 +1,13 @@
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\netcoreapp3.1\ProblemaExemplo2.exe
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\netcoreapp3.1\ProblemaExemplo2.deps.json
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\netcoreapp3.1\ProblemaExemplo2.runtimeconfig.json
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\netcoreapp3.1\ProblemaExemplo2.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\netcoreapp3.1\ProblemaExemplo2.dll
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\bin\Debug\netcoreapp3.1\ProblemaExemplo2.pdb
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\netcoreapp3.1\ProblemaExemplo2.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\netcoreapp3.1\ProblemaExemplo2.AssemblyInfo.cs
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\netcoreapp3.1\ProblemaExemplo2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\netcoreapp3.1\ProblemaExemplo2.dll
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\netcoreapp3.1\ProblemaExemplo2.pdb
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\netcoreapp3.1\ProblemaExemplo2.genruntimeconfig.cache
+C:\Users\gusta\source\repos\ProblemaExemplo2\ProblemaExemplo2\obj\Debug\netcoreapp3.1\ProblemaExemplo2.csprojAssemblyReference.cache

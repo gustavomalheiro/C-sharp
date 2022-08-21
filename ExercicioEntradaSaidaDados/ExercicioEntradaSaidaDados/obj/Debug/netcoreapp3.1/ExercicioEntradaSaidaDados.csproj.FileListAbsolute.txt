@@ -1,0 +1,12 @@
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.exe
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.deps.json
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.runtimeconfig.json
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.dll
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\bin\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.pdb
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.AssemblyInfo.cs
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.dll
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.pdb
+C:\Users\gusta\source\repos\ExercicioEntradaSaidaDados\ExercicioEntradaSaidaDados\obj\Debug\netcoreapp3.1\ExercicioEntradaSaidaDados.genruntimeconfig.cache

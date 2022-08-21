@@ -1,0 +1,12 @@
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.exe
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.deps.json
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.runtimeconfig.json
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.dll
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.pdb
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.AssemblyInfo.cs
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.dll
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.pdb
+C:\Users\gusta\source\repos\exercises\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.genruntimeconfig.cache

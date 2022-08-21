@@ -1,0 +1,13 @@
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.AssemblyInfo.cs
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.exe
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.deps.json
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.runtimeconfig.json
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.dll
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\bin\Debug\netcoreapp3.1\EntradaDados2.pdb
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.dll
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.pdb
+C:\Users\gusta\source\repos\EntradaDados2\EntradaDados2\obj\Debug\netcoreapp3.1\EntradaDados2.genruntimeconfig.cache

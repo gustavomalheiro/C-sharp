@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\bin\Debug\netcoreapp3.1\ProgramAtribuicao.exe
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\bin\Debug\netcoreapp3.1\ProgramAtribuicao.deps.json
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\bin\Debug\netcoreapp3.1\ProgramAtribuicao.runtimeconfig.json
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\bin\Debug\netcoreapp3.1\ProgramAtribuicao.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\bin\Debug\netcoreapp3.1\ProgramAtribuicao.dll
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\bin\Debug\netcoreapp3.1\ProgramAtribuicao.pdb
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\obj\Debug\netcoreapp3.1\ProgramAtribuicao.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\obj\Debug\netcoreapp3.1\ProgramAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\obj\Debug\netcoreapp3.1\ProgramAtribuicao.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\obj\Debug\netcoreapp3.1\ProgramAtribuicao.AssemblyInfo.cs
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\obj\Debug\netcoreapp3.1\ProgramAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\obj\Debug\netcoreapp3.1\ProgramAtribuicao.dll
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\obj\Debug\netcoreapp3.1\ProgramAtribuicao.pdb
+C:\Users\gusta\source\repos\ProgramAtribuicao\ProgramAtribuicao\obj\Debug\netcoreapp3.1\ProgramAtribuicao.genruntimeconfig.cache

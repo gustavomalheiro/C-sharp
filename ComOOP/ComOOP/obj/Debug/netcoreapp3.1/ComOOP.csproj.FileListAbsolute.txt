@@ -1,0 +1,13 @@
+C:\Users\gusta\source\repos\ComOOP\ComOOP\bin\Debug\netcoreapp3.1\ComOOP.exe
+C:\Users\gusta\source\repos\ComOOP\ComOOP\bin\Debug\netcoreapp3.1\ComOOP.deps.json
+C:\Users\gusta\source\repos\ComOOP\ComOOP\bin\Debug\netcoreapp3.1\ComOOP.runtimeconfig.json
+C:\Users\gusta\source\repos\ComOOP\ComOOP\bin\Debug\netcoreapp3.1\ComOOP.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\ComOOP\ComOOP\bin\Debug\netcoreapp3.1\ComOOP.dll
+C:\Users\gusta\source\repos\ComOOP\ComOOP\bin\Debug\netcoreapp3.1\ComOOP.pdb
+C:\Users\gusta\source\repos\ComOOP\ComOOP\obj\Debug\netcoreapp3.1\ComOOP.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\ComOOP\ComOOP\obj\Debug\netcoreapp3.1\ComOOP.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\ComOOP\ComOOP\obj\Debug\netcoreapp3.1\ComOOP.AssemblyInfo.cs
+C:\Users\gusta\source\repos\ComOOP\ComOOP\obj\Debug\netcoreapp3.1\ComOOP.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ComOOP\ComOOP\obj\Debug\netcoreapp3.1\ComOOP.dll
+C:\Users\gusta\source\repos\ComOOP\ComOOP\obj\Debug\netcoreapp3.1\ComOOP.pdb
+C:\Users\gusta\source\repos\ComOOP\ComOOP\obj\Debug\netcoreapp3.1\ComOOP.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.exe
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.deps.json
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.runtimeconfig.json
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.dll
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.1\EstruturaWhile.pdb
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.AssemblyInfo.cs
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.dll
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.pdb
+C:\Users\gusta\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.1\EstruturaWhile.genruntimeconfig.cache
